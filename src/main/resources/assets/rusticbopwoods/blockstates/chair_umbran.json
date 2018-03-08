@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=north":	{ "model": "rusticbopwoods:chair_umbran" },
+		"facing=east":	{ "model": "rusticbopwoods:chair_umbran", "y": 90},
+		"facing=south":	{ "model": "rusticbopwoods:chair_umbran", "y": 180 },
+		"facing=west":	{ "model": "rusticbopwoods:chair_umbran", "y": 270 }
+	}
+}

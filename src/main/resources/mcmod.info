@@ -1,0 +1,16 @@
+[
+{
+  "modid": "rusticbopwoods",
+  "name": "Rustic BOP Woods",
+  "description": "A mod that adds some Biomes O Plenty wood compatability to Rustic.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Wolfie_Waffle"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": [ "biomesoplenty", "rustic" ]
+}
+]
